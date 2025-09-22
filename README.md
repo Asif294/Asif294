@@ -21,14 +21,13 @@
 - 🚗 **[Car Sales](https://github.com/Asif294/CarSales)** – Python project for managing car sales.  
 - 🛍️ **[Stylehub Backend](https://github.com/Asif294/Stylehub-backend)** – API for a clothing e-commerce store.  
 - 🏥 **[SmartCare](https://github.com/Asif294/SmartCare)** – A healthcare management system.  
-- 🌐 **[My Portfolio](https://github.com/Asif294/my-protfolio)** – Personal portfolio website.  
 
 ---
 
 ## 📫 Connect with Me
 - GitHub: [@Asif294](https://github.com/Asif294)  
 - LinkedIn: *(Add your LinkedIn link here)*  
-- Email: *(Add your email here)*  
+- Email: *asifurrahman677294@gmail.com *  
 
 ---
 
