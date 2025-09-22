@@ -55,15 +55,15 @@
 
 ### 📊 GitHub Stats  
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asif294&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="160"/>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=asif294&show_icons=true&locale=en" alt="GitHub Stats" height="160"/>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=asif294&" alt="GitHub Streak" height="160"/>
 </p>
 
