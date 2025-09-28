@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asif</h1>
 <h3 align="center">A Passionate Backend Developer with Python & Django</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=asif294&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+
 
 ---
 
