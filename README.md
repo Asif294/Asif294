@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asif</h1>
-<h3 align="center">A Passionate Backend Developer with Python & Django</h3>
+<h3 align="center">A passionate Backend Developer, Python & Django enthusiast who loves to solve problems and build scalable web applications.</h3>
 
 
 
