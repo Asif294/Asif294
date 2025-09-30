@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Backend Developer, Python & Django enthusiast who loves to solve problems and build scalable web applications.</h3>
 
 
-
 ---
 
 ### 🌱 Currently Learning  
