@@ -4,7 +4,7 @@
 ---
 ### 🌱 Currently Learning  
 - **React**  
-- **Django REST Framework (DRF)**  
+- **Django REST Framework (DRF), Celery, WebSocket**  
 
 ---
 
