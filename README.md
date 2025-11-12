@@ -6,7 +6,6 @@
 - **React**  
 - **Django REST Framework (DRF), Celery, WebSocket**  
 
-
 ---
 ### 🔗 Connect with Me  
 <p align="left">
