@@ -1,49 +1,131 @@
-<h1 align="center">Hi 👋, I'm Asif</h1>
-<h3 align="center">A passionate Backend Developer, Python & Django enthusiast who loves to solve problems and build scalable web applications.</h3>
-
----
-
-### 🌱 Currently Learning
-- **React**
-- **Django REST Framework (DRF), Celery, WebSocket**
-
----
-
-### 🔗 Connect with Me
-
 <div align="center">
 
-|  |  |  |  |
-|---|---|---|---|
-| [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="50"/>](https://www.linkedin.com/in/asifur-rahman-435b2a200/) | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="50"/>](https://www.facebook.com/asifurrahman.com.bd/) | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" width="50"/>](https://codeforces.com/profile/asifur_rahman677) | [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="50"/>](https://leetcode.com/u/asif294/) |
-| LinkedIn | Facebook | Codeforces | LeetCode |
+```
+██████╗ ██╗   ██╗████████╗██╗  ██╗ ██████╗ ███╗   ██╗
+██╔══██╗╚██╗ ██╔╝╚══██╔══╝██║  ██║██╔═══██╗████╗  ██║
+██████╔╝ ╚████╔╝    ██║   ███████║██║   ██║██╔██╗ ██║
+██╔═══╝   ╚██╔╝     ██║   ██╔══██║██║   ██║██║╚██╗██║
+██║        ██║      ██║   ██║  ██║╚██████╔╝██║ ╚████║
+╚═╝        ╚═╝      ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
+```
+
+### Backend Developer · Python & Django Specialist · Problem Solver
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=3178C6&center=true&vCenter=true&width=500&lines=Building+scalable+web+applications;Python+%7C+Django+%7C+DRF+enthusiast;Clean+code+%7C+Clean+architecture)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-### 🛠️ Languages and Tools
+## 👨‍💻 About Me
+
+```python
+class Asif:
+    def __init__(self):
+        self.name        = "Asifur Rahman"
+        self.role        = "Backend Developer"
+        self.location    = "Bangladesh 🇧🇩"
+        self.languages   = ["Python", "JavaScript", "C", "C++"]
+        self.frameworks  = ["Django", "DRF", "React"]
+        self.databases   = ["PostgreSQL", "MySQL"]
+        self.tools       = ["Docker", "Git", "Linux", "Celery", "WebSocket"]
+        self.focus       = "Building clean, scalable, production-ready APIs"
+        
+    def currently_learning(self):
+        return ["React", "Django REST Framework", "Celery", "WebSocket"]
+    
+    def say_hi(self):
+        print("Thanks for visiting my profile! Let's build something great.")
+
+asif = Asif()
+asif.say_hi()
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Backend & Frameworks
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django_REST_Framework-092E20?style=for-the-badge&logo=django&logoColor=red)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 🌱 Currently Learning
+
+| Topic | Status |
+|-------|--------|
+| Next.js | 🔄 In Progress |
+| WebSocket (Real-time Apps) | 🔄 In Progress |
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-| | | | | |
-|---|---|---|---|---|
-| <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a><br>Python | <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="50" height="50"/></a><br>Django | <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/></a><br>React | <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/></a><br>JavaScript | <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/></a><br>HTML5 |
-| <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/></a><br>CSS3 | <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50"/></a><br>Bootstrap | <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="50" height="50"/></a><br>Tailwind | <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/></a><br>MySQL | <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/></a><br>PostgreSQL |
-| <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/></a><br>Docker | <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/></a><br>Git | <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/></a><br>Linux | <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/></a><br>C | <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/></a><br>C++ |
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=asif294&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asif294&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=asif294&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-### 📊 GitHub Stats
+## 🏆 Competitive Programming
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=asif294&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="160"/>
+[![Codeforces](https://img.shields.io/badge/Codeforces-asifur__rahman677-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/asifur_rahman677)
+[![LeetCode](https://img.shields.io/badge/LeetCode-asif294-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/asif294/)
 
-<img src="https://github-readme-stats.vercel.app/api?username=asif294&show_icons=true&locale=en" alt="GitHub Stats" height="160"/>
+</div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=asif294&" alt="GitHub Streak" height="160"/>
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Asifur_Rahman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asifur-rahman-435b2a200/)
+[![Facebook](https://img.shields.io/badge/Facebook-Asifur_Rahman-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/asifurrahman.com.bd/)
+
+</div>
+
+---
+
+<div align="center">
+
+*"First, solve the problem. Then, write the code."* — John Johnson
+
+![Profile Views](https://komarev.com/ghpvc/?username=asif294&color=3178C6&style=for-the-badge)
 
 </div>
