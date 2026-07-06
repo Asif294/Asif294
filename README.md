@@ -31,8 +31,6 @@ class Asif:
         self.tools       = ["Docker", "Git", "Linux", "Celery", "WebSocket"]
         self.focus       = "Building clean, scalable, production-ready APIs"
         
-    def currently_learning(self):
-        return ["React", "Django REST Framework", "Celery", "WebSocket"]
     
     def say_hi(self):
         print("Thanks for visiting my profile! Let's build something great.")
